@@ -1,8 +1,8 @@
 {
-  "name": "trpc-openapi",
-  "version": "1.2.0",
+  "name": "@keithch/trpc-openapi",
+  "version": "1.2.1",
   "description": "tRPC OpenAPI",
-  "author": "James Berry <jb@jamesbe.com>",
+  "author": "Keith Casscells-Hamby <keith@tkx.live>",
   "private": false,
   "license": "MIT",
   "keywords": [
@@ -10,9 +10,9 @@
     "openapi",
     "swagger"
   ],
-  "homepage": "https://github.com/jlalmes/trpc-openapi",
-  "repository": "github:jlalmes/trpc-openapi",
-  "bugs": "https://github.com/jlalmes/trpc-openapi/issues",
+  "homepage": "https://github.com/keith-tkx/trpc-openapi",
+  "repository": "github:keith-tkx/trpc-openapi",
+  "bugs": "https://github.com/keith-tkx/trpc-openapi/issues",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "workspaces": [
